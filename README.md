@@ -1,4 +1,3 @@
 # Java-Projects
-Projects in Java  
-3,4,9   
+Short Projects in Java  
 Code cannot be used without permission  
